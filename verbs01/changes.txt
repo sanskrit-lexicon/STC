@@ -1,0 +1,699 @@
+; Case 001: L=90, k1=akta, #changes=2
+;
+old: <L>90<pc>3,1<k1>akta<k2>akta- (aYj
+new: <L>90<pc>3,1<k1>akta<k2>akta
+;
+old: {@akta- (AÑJ-@}¦) <ab>a. v.</ab> oint.
+new: {@akta-@}¦ ({@AÑJ-@}) <ab>a. v.</ab> oint.
+; -----------------------------------------------
+; Case 002: L=236, k1=acCe, #changes=1
+;
+old: <L>236<pc>8,1<k1>acCe<k2>acCe- (i-)
+new: <L>236<pc>8,1<k1>acCe<k2>acCe(i)
+; -----------------------------------------------
+; Case 003: L=488, k1=atipraRud, #changes=1
+;
+old: <L>488<pc>13,1<k1>atipraRud<k2>ati-pra-Rud- (nud-)
+new: <L>488<pc>13,1<k1>atipraRud<k2>ati-pra-Rud(nud)
+; -----------------------------------------------
+; Case 004: L=681, k1=atiSI, #changes=1
+;
+old: {@1 ati-Śī-@}¦ 1 <ab>moy.</ab> abandonner.
+new: {@1 ati-ŚĪ-@}¦ 1 <ab>moy.</ab> abandonner.
+; -----------------------------------------------
+; Case 005: L=762, k1=atI, #changes=2
+;
+old: <L>762<pc>17,2<k1>atI<k2>atI- (i
+new: <L>762<pc>17,2<k1>atI<k2>atI-(i)
+;
+old: {@atī- (I-@}¦) passer (dit du temps); franchir (distance); fouler (sol
+new: {@atī- (I-)@}¦ passer (dit du temps); franchir (distance); fouler (sol
+; -----------------------------------------------
+; Case 006: L=1063, k1=aDizWA, #changes=2
+;
+old: <L>1063<pc>24,1<k1>aDizWA<k2>aDi-zWA- (sTA
+new: <L>1063<pc>24,1<k1>aDizWA<k2>aDi-zWA(sTA)
+;
+old: {@adhi-ṣṭhā- (STHĀ-@}¦) se poser sur, se tenir sur, habiter; gouverner,
+new: {@adhi-ṣṭhā- (STHĀ-)@}¦ se poser sur, se tenir sur, habiter; gouverner,
+; -----------------------------------------------
+; Case 007: L=1072, k1=aDI, #changes=2
+;
+old: <L>1072<pc>24,1<k1>aDI<k2>aDI- (i
+new: <L>1072<pc>24,1<k1>aDI<k2>aDI(i)
+;
+old: {@adhī- (I-@}¦) connaître; apprendre; annoncer <lbinfo n="3"/>; <ab>moy.</ab> apprendre (par
+new: {@adhī- (I-)@}¦ connaître; apprendre; annoncer <lbinfo n="3"/>; <ab>moy.</ab> apprendre (par
+; -----------------------------------------------
+; Case 008: L=1074, k1=aDIkz, #changes=2
+;
+old: <L>1074<pc>24,2<k1>aDIkz<k2>aDIkz- (Ikz
+new: <L>1074<pc>24,2<k1>aDIkz<k2>aDIkz(Ikz)
+;
+old: {@adhīkṣ- (ĪKṢ-@}¦) <ab>moy.</ab> voir <ab>qqch.</ab> dans; suspecter.
+new: {@adhīkṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> voir <ab>qqch.</ab> dans; suspecter.
+; -----------------------------------------------
+; Case 009: L=1739, k1=anuparI, #changes=2
+;
+old: <L>1739<pc>37,1<k1>anuparI<k2>anu-parI- (i
+new: <L>1739<pc>37,1<k1>anuparI<k2>anu-parI(i)
+;
+old: {@anu-parī- (I-@}¦) encercler.
+new: {@anu-parī- (I-)@}¦ encercler.
+; -----------------------------------------------
+; Case 010: L=1740, k1=anuparye, #changes=2
+;
+old: <L>1740<pc>37,1<k1>anuparye<k2>anu-pary-e- (i
+new: <L>1740<pc>37,1<k1>anuparye<k2>anu-pary-e(i)
+;
+old: {@anu-pary-e- (I-@}¦) entourer en longeant.
+new: {@anu-pary-e- (I-)@}¦ entourer en longeant.
+; -----------------------------------------------
+; Case 011: L=1772, k1=anupraRud, #changes=2
+;
+old: <L>1772<pc>38,1<k1>anupraRud<k2>anu-pra-Rud- (nud
+new: <L>1772<pc>38,1<k1>anupraRud<k2>anu-pra-Rud(nud)
+;
+old: {@anu-pra-ṇud- (NUD-@}¦) chasser, écarter de soi.
+new: {@anu-pra-ṇud- (NUD-)@}¦ chasser, écarter de soi.
+; -----------------------------------------------
+; Case 012: L=1773, k1=anupratizWA, #changes=2
+;
+old: <L>1773<pc>38,1<k1>anupratizWA<k2>anu-prati-zWA- (sTA
+new: <L>1773<pc>38,1<k1>anupratizWA<k2>anu-prati-zWA(sTA)
+;
+old: {@anu-prati-ṣṭhā- (STHĀ-@}¦) avoir une assise <lbinfo n="4"/> ferme après <ab>qq'un</ab> ou
+new: {@anu-prati-ṣṭhā- (STHĀ-)@}¦ avoir une assise <lbinfo n="4"/> ferme après <ab>qq'un</ab> ou
+; -----------------------------------------------
+; Case 013: L=1798, k1=anuprAR, #changes=2
+;
+old: <L>1798<pc>38,1<k1>anuprAR<k2>anu-prAR- (an
+new: <L>1798<pc>38,1<k1>anuprAR<k2>anu-prAR(an)
+;
+old: {@anu-prāṇ- (AN-@}¦) respirer après.
+new: {@anu-prāṇ- (AN-)@}¦ respirer après.
+; -----------------------------------------------
+; Case 014: L=1799, k1=anuprAp, #changes=2
+;
+old: <L>1799<pc>38,1<k1>anuprAp<k2>anu-prAp- (Ap
+new: <L>1799<pc>38,1<k1>anuprAp<k2>anu-prAp(Ap)
+;
+old: {@anu-prāp- (ĀP-@}¦) tomber sur <ab>qq'un</ab>, se rendre à; obtenir; imiter;
+new: {@anu-prāp- (ĀP-)@}¦ tomber sur <ab>qq'un</ab>, se rendre à; obtenir; imiter;
+; -----------------------------------------------
+; Case 015: L=1802, k1=anuprekz, #changes=2
+;
+old: <L>1802<pc>38,2<k1>anuprekz<k2>anu-prekz- (Ikz
+new: <L>1802<pc>38,2<k1>anuprekz<k2>anu-prekz(Ikz)
+;
+old: {@anu-prekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> regarder après.
+new: {@anu-prekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> regarder après.
+; -----------------------------------------------
+; Case 016: L=1950, k1=anuvIkz, #changes=2
+;
+old: <L>1950<pc>41,1<k1>anuvIkz<k2>anu-vIkz- (Ikz
+new: <L>1950<pc>41,1<k1>anuvIkz<k2>anu-vIkz(Ikz)
+;
+old: {@anu-vīkṣ- (ĪKṢ-@}¦) regarder autour de soi, examiner.
+new: {@anu-vīkṣ- (ĪKṢ-)@}¦ regarder autour de soi, examiner.
+; -----------------------------------------------
+; Case 017: L=1991, k1=anuzaYj, #changes=2
+;
+old: <L>1991<pc>42,1<k1>anuzaYj<k2>anu-zaYj- (saYj
+new: <L>1991<pc>42,1<k1>anuzaYj<k2>anu-zaYj(saYj)
+;
+old: {@anu-ṣañj- (SAÑJ-@}¦) pass. être attaché à; adhérer; s'occuper de;
+new: {@anu-ṣañj- (SAÑJ-)@}¦ pass. être attaché à; adhérer; s'occuper de;
+; -----------------------------------------------
+; Case 018: L=1994, k1=anuzWA, #changes=2
+;
+old: <L>1994<pc>42,1<k1>anuzWA<k2>anu-zWA- (sTA
+new: <L>1994<pc>42,1<k1>anuzWA<k2>anu-zWA(sTA)
+;
+old: {@anu-ṣṭhā- (STHĀ-@}¦) se tenir près de; suivre; obéir; exécuter, se
+new: {@anu-ṣṭhā- (STHĀ-)@}¦ se tenir près de; suivre; obéir; exécuter, se
+; -----------------------------------------------
+; Case 019: L=2030, k1=anusaMprAp, #changes=2
+;
+old: <L>2030<pc>42,2<k1>anusaMprAp<k2>anu-saMprAp- (Ap
+new: <L>2030<pc>42,2<k1>anusaMprAp<k2>anu-saMprAp(Ap)
+;
+old: {@anu-saṃprāp- (ĀP-@}¦) atteindre; {%°āpta-%} parvenu à.
+new: {@anu-saṃprāp- (ĀP-)@}¦ atteindre; {%°āpta-%} parvenu à.
+; -----------------------------------------------
+; Case 020: L=2064, k1=anUtTA, #changes=2
+;
+old: <L>2064<pc>43,1<k1>anUtTA<k2>anUt-TA- (sTA
+new: <L>2064<pc>43,1<k1>anUtTA<k2>anUt-TA(sTA)
+;
+old: {@anūt-thā- (STHĀ-@}¦) se lever après; {%°thita-%} suivi de.
+new: {@anūt-thā- (STHĀ-)@}¦ se lever après; {%°thita-%} suivi de.
+; -----------------------------------------------
+; Case 021: L=2068, k1=anUde, #changes=2
+;
+old: <L>2068<pc>43,1<k1>anUde<k2>anUd-e- (i
+new: <L>2068<pc>43,1<k1>anUde<k2>anUd-e(i)
+;
+old: {@anūd-e- (I-@}¦) se lever après.
+new: {@anūd-e- (I-)@}¦ se lever après.
+; -----------------------------------------------
+; Case 022: L=2153, k1=anvaBizic, #changes=2
+;
+old: <L>2153<pc>47,2<k1>anvaBizic<k2>anv-aBi-zic- (sic
+new: <L>2153<pc>47,2<k1>anvaBizic<k2>anv-aBi-zic(sic)
+;
+old: {@anv-abhi-ṣic- (SIC-@}¦) <ab>moy.</ab> se faire oindre par (<ab>acc.</ab>).
+new: {@anv-abhi-ṣic- (SIC-)@}¦ <ab>moy.</ab> se faire oindre par (<ab>acc.</ab>).
+; -----------------------------------------------
+; Case 023: L=2161, k1=anvavArj, #changes=2
+;
+old: <L>2161<pc>47,2<k1>anvavArj<k2>anv-avArj- (arj
+new: <L>2161<pc>47,2<k1>anvavArj<k2>anv-avArj(arj)
+;
+old: {@anv-avārj- (ARJ-@}¦) affliger de (<ab>instr.</ab>).
+new: {@anv-avārj- (ARJ-)@}¦ affliger de (<ab>instr.</ab>).
+; -----------------------------------------------
+; Case 024: L=2162, k1=anvave, #changes=2
+;
+old: <L>2162<pc>47,2<k1>anvave<k2>anv-ave- (i
+new: <L>2162<pc>47,2<k1>anvave<k2>anv-ave(i)
+;
+old: {@anv-ave- (I-@}¦) s'engager dans; tomber dans.
+new: {@anv-ave- (I-)@}¦ s'engager dans; tomber dans.
+; -----------------------------------------------
+; Case 025: L=2163, k1=anvavekz, #changes=2
+;
+old: <L>2163<pc>47,2<k1>anvavekz<k2>anv-avekz- (Ikz
+new: <L>2163<pc>47,2<k1>anvavekz<k2>anv-avekz(Ikz)
+;
+old: {@anv-avekṣ- (ĪKṢ-@}¦) regarder vers, prendre <lbinfo n="3"/> en considération.
+new: {@anv-avekṣ- (ĪKṢ-)@}¦ regarder vers, prendre <lbinfo n="3"/> en considération.
+; -----------------------------------------------
+; Case 026: L=2505, k1=apAn, #changes=2
+;
+old: <L>2505<pc>54,1<k1>apAn<k2>apAn- (an
+new: <L>2505<pc>54,1<k1>apAn<k2>apAn(an)
+;
+old: {@apān- (AN-@}¦) expirer.
+new: {@apān- (AN-)@}¦ expirer.
+; -----------------------------------------------
+; Case 027: L=2521, k1=apAvr, #changes=2
+;
+old: <L>2521<pc>54,2<k1>apAvr<k2>apA-vr
+new: <L>2521<pc>54,2<k1>apAvf<k2>apA-vf
+;
+old: {@apā-VR-@}¦ 1 ouvrir, découvrir; {%°vṛta-%} ouvert, libre; dévoilé.
+new: {@apā-VṚ-@}¦ 1 ouvrir, découvrir; {%°vṛta-%} ouvert, libre; dévoilé.
+; -----------------------------------------------
+; Case 028: L=2542, k1=apI, #changes=2
+;
+old: <L>2542<pc>55,1<k1>apI<k2>apI- (i
+new: <L>2542<pc>55,1<k1>apI<k2>apI(i)
+;
+old: {@apī- (I-@}¦) participer à; supporter; se résorber <lbinfo n="3"/>, se dissoudre; 1
+new: {@apī- (I-)@}¦ participer à; supporter; se résorber <lbinfo n="3"/>, se dissoudre; 1
+; -----------------------------------------------
+; Case 029: L=2575, k1=ape, #changes=2
+;
+old: <L>2575<pc>55,2<k1>ape<k2>ape- (i
+new: <L>2575<pc>55,2<k1>ape<k2>ape(i)
+;
+old: {@ape- (I-@}¦) disparaître; {%apeta-%} parti; libre de (<ab>abl.</ab>); qui s'écarte
+new: {@ape- (I-)@}¦ disparaître; {%apeta-%} parti; libre de (<ab>abl.</ab>); qui s'écarte
+; -----------------------------------------------
+; Case 030: L=2576, k1=apekz, #changes=2
+;
+old: <L>2576<pc>55,2<k1>apekz<k2>apekz- (Ikz
+new: <L>2576<pc>55,2<k1>apekz<k2>apekz(Ikz)
+;
+old: {@apekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> respecter, avoir égard; attendre; avoir besoin,
+new: {@apekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> respecter, avoir égard; attendre; avoir besoin,
+; -----------------------------------------------
+; Case 031: L=2586, k1=apoh, #changes=2
+;
+old: <L>2586<pc>55,2<k1>apoh<k2>apoh- (Uh
+new: <L>2586<pc>55,2<k1>apoh<k2>apoh(Uh)
+;
+old: {@apoh- (ŪH-@}¦ 1 et 2) écarter; <ab>moy.</ab> éviter; céder; objecter.
+new: {@apoh- (ŪH-)@}¦ (1 et 2) écarter; <ab>moy.</ab> éviter; céder; objecter.
+; -----------------------------------------------
+; Case 032: L=2901, k1=aBiDfs, #changes=2
+;
+old: <L>2901<pc>62,1<k1>aBiDfs<k2>aBi-Dfs
+new: <L>2901<pc>62,1<k1>aBiDfz<k2>aBi-Dfz
+;
+old: {@abhi-DHṚS-@}¦ <ab>caus.</ab> dominer.
+new: {@abhi-DHṚṢ-@}¦ <ab>caus.</ab> dominer.
+; -----------------------------------------------
+; Case 033: L=2932, k1=aBinirRud, #changes=2
+;
+old: <L>2932<pc>62,2<k1>aBinirRud<k2>aBi-nir-Rud- (nud
+new: <L>2932<pc>62,2<k1>aBinirRud<k2>aBi-nir-Rud(nud)
+;
+old: {@abhi-nir-ṇud- (NUD-@}¦) effrayer.
+new: {@abhi-nir-ṇud- (NUD-)@}¦ effrayer.
+; -----------------------------------------------
+; Case 034: L=2968, k1=aBiparizvaYj, #changes=2
+;
+old: <L>2968<pc>63,1<k1>aBiparizvaYj<k2>aBi-pari-zvaYj- (svaYj
+new: <L>2968<pc>63,1<k1>aBiparizvaYj<k2>aBi-pari-zvaYj(svaYj)
+;
+old: {@abhi-pari-ṣvañj- (SVAÑJ-@}¦) embrasser.
+new: {@abhi-pari-ṣvañj- (SVAÑJ-)@}¦ embrasser.
+; -----------------------------------------------
+; Case 035: L=2991, k1=aBipranam, #changes=2
+;
+old: <L>2991<pc>63,2<k1>aBipranam<k2>aBi-pra-nam- (nam
+new: <L>2991<pc>63,2<k1>aBipraRam<k2>aBi-pra-Ram-(nam)
+;
+old: {@abhi-pra-nam- (NAM-@}¦) s'incliner devant <lbinfo n="4"/>.
+new: {@abhi-pra-ṇam- (NAM-)@}¦ s'incliner devant <lbinfo n="4"/>.
+; -----------------------------------------------
+; Case 036: L=3020, k1=aBiprAR, #changes=2
+;
+old: <L>3020<pc>64,1<k1>aBiprAR<k2>aBi-prAR- (an
+new: <L>3020<pc>64,1<k1>aBiprAR<k2>aBi-prAR(an)
+;
+old: {@abhi-prāṇ- (AN-@}¦) respirer.
+new: {@abhi-prāṇ- (AN-)@}¦ respirer.
+; -----------------------------------------------
+; Case 037: L=3022, k1=aBiprAp, #changes=2
+;
+old: <L>3022<pc>64,1<k1>aBiprAp<k2>aBi-prAp- (Ap
+new: <L>3022<pc>64,1<k1>aBiprAp<k2>aBi-prAp(Ap)
+;
+old: {@abhi-prāp- (ĀP-@}¦) atteindre.
+new: {@abhi-prāp- (ĀP-)@}¦ atteindre.
+; -----------------------------------------------
+; Case 038: L=3027, k1=aBipre, #changes=2
+;
+old: <L>3027<pc>64,1<k1>aBipre<k2>aBi-pre- (i
+new: <L>3027<pc>64,1<k1>aBipre<k2>aBi-pre(i)
+;
+old: {@abhi-pre- (I-@}¦) aller vers; penser à; consentir <lbinfo n="6"/> à; {%°preta-%} admis;
+new: {@abhi-pre- (I-)@}¦ aller vers; penser à; consentir <lbinfo n="6"/> à; {%°preta-%} admis;
+; -----------------------------------------------
+; Case 039: L=3028, k1=aBiprekz, #changes=2
+;
+old: <L>3028<pc>64,1<k1>aBiprekz<k2>aBi-prekz- (Ikz
+new: <L>3028<pc>64,1<k1>aBiprekz<k2>aBi-prekz(Ikz)
+;
+old: {@abhi-prekṣ- (ĪKṢ-@}¦) voir, regarder.
+new: {@abhi-prekṣ- (ĪKṢ-)@}¦ voir, regarder.
+; -----------------------------------------------
+; Case 040: L=3184, k1=aBivizaYj, #changes=2
+;
+old: <L>3184<pc>67,1<k1>aBivizaYj<k2>aBi-vi-zaYj- (saYj
+new: <L>3184<pc>67,1<k1>aBivizaYj<k2>aBi-vi-zaYj(saYj)
+;
+old: {@abhi-vi-ṣañj- (SAÑJ-@}¦) pass. être entièrement <lbinfo n="4"/> voué à (<ab>loc.</ab>).
+new: {@abhi-vi-ṣañj- (SAÑJ-)@}¦ pass. être entièrement <lbinfo n="4"/> voué à (<ab>loc.</ab>).
+; -----------------------------------------------
+; Case 041: L=3187, k1=aBivIkz, #changes=2
+;
+old: <L>3187<pc>67,1<k1>aBivIkz<k2>aBi-vIkz- (Ikz
+new: <L>3187<pc>67,1<k1>aBivIkz<k2>aBi-vIkz(Ikz)
+;
+old: {@abhi-vīkṣ- (ĪKṢ-@}¦) <ab>moy.</ab> regarder, percevoir <lbinfo n="4"/>; regarder comme.
+new: {@abhi-vīkṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> regarder, percevoir <lbinfo n="4"/>; regarder comme.
+; -----------------------------------------------
+; Case 042: L=3230, k1=aBizaYj, #changes=2
+;
+old: <L>3230<pc>67,2<k1>aBizaYj<k2>aBi-zaYj- (saYj
+new: <L>3230<pc>67,2<k1>aBizaYj<k2>aBi-zaYj(saYj)
+;
+old: {@abhi-ṣañj- (SAÑJ-@}¦) avoir droit à; prononcer <lbinfo n="6"/> une malédiction sur.
+new: {@abhi-ṣañj- (SAÑJ-)@}¦ avoir droit à; prononcer <lbinfo n="6"/> une malédiction sur.
+; -----------------------------------------------
+; Case 043: L=3232, k1=aBizah, #changes=2
+;
+old: <L>3232<pc>67,2<k1>aBizah<k2>aBi-zah- (sah
+new: <L>3232<pc>67,2<k1>aBizah<k2>aBi-zah(sah)
+;
+old: {@abhi-ṣah- (SAH-@}¦) faire violence à <ab>qq'un</ab>.
+new: {@abhi-ṣah- (SAH-)@}¦ faire violence à <ab>qq'un</ab>.
+; -----------------------------------------------
+; Case 044: L=3233, k1=aBizic, #changes=2
+;
+old: <L>3233<pc>67,2<k1>aBizic<k2>aBi-zic- (sic
+new: <L>3233<pc>67,2<k1>aBizic<k2>aBi-zic(sic)
+;
+old: {@abhi-ṣic- (SIC-@}¦) arroser (not. pour la consécration royale), consacrer;
+new: {@abhi-ṣic- (SIC-)@}¦ arroser (not. pour la consécration royale), consacrer;
+; -----------------------------------------------
+; Case 045: L=3236, k1=aBizu, #changes=2
+;
+old: <L>3236<pc>67,2<k1>aBizu<k2>aBi-zu- (su
+new: <L>3236<pc>67,2<k1>aBizu<k2>aBi-zu(su)
+;
+old: {@abhi-ṣu- (SU-@}¦) presser (pour obtenir un jus).
+new: {@abhi-ṣu- (SU-)@}¦ presser (pour obtenir un jus).
+; -----------------------------------------------
+; Case 046: L=3237, k1=aBizUd, #changes=2
+;
+old: <L>3237<pc>67,2<k1>aBizUd<k2>aBi-zUd- (sUd
+new: <L>3237<pc>67,2<k1>aBizUd<k2>aBi-zUd(sUd)
+;
+old: {@abhi-ṣūd- (SŪD-@}¦) <ab>caus.</ab> tuer.
+new: {@abhi-ṣūd- (SŪD-)@}¦ <ab>caus.</ab> tuer.
+; -----------------------------------------------
+; Case 047: L=3244, k1=aBizwu, #changes=2
+;
+old: <L>3244<pc>68,1<k1>aBizwu<k2>aBi-zwu- (stu
+new: <L>3244<pc>68,1<k1>aBizwu<k2>aBi-zwu(stu)
+;
+old: {@abhi-ṣṭu- (STU-@}¦) louer, adresser une louange (not. rituelle).
+new: {@abhi-ṣṭu- (STU-)@}¦ louer, adresser une louange (not. rituelle).
+; -----------------------------------------------
+; Case 048: L=3245, k1=aBizWA, #changes=2
+;
+old: <L>3245<pc>68,1<k1>aBizWA<k2>aBi-zWA- (sTA
+new: <L>3245<pc>68,1<k1>aBizWA<k2>aBi-zWA(sTA)
+;
+old: {@abhi-ṣṭhā- (STHĀ-@}¦) rester debout; se trouver, vivre.
+new: {@abhi-ṣṭhā- (STHĀ-)@}¦ rester debout; se trouver, vivre.
+; -----------------------------------------------
+; Case 049: L=3246, k1=aBizyand, #changes=2
+;
+old: <L>3246<pc>68,1<k1>aBizyand<k2>aBi-zyand- (syand
+new: <L>3246<pc>68,1<k1>aBizyand<k2>aBi-zyand(syand)
+;
+old: {@abhi-ṣyand- (SYAND-@}¦) courir vers; <ab>moy.</ab> pleuvoir; déborder de (<ab>fig.</ab>.
+new: {@abhi-ṣyand- (SYAND-)@}¦ courir vers; <ab>moy.</ab> pleuvoir; déborder de (<ab>fig.</ab>.
+; -----------------------------------------------
+; Case 050: L=3249, k1=aBizvaYj, #changes=2
+;
+old: <L>3249<pc>68,1<k1>aBizvaYj<k2>aBi-zvaYj- (svaYj
+new: <L>3249<pc>68,1<k1>aBizvaYj<k2>aBi-zvaYj(svaYj)
+;
+old: {@abhi-ṣvañj- (SVAÑJ-@}¦) entourer, enserrer <lbinfo n="3"/>, embrasser.
+new: {@abhi-ṣvañj- (SVAÑJ-)@}¦ entourer, enserrer <lbinfo n="3"/>, embrasser.
+; -----------------------------------------------
+; Case 051: L=3260, k1=aBisaMvIkz, #changes=2
+;
+old: <L>3260<pc>68,1<k1>aBisaMvIkz<k2>aBi-saM-vIkz- (Ikz
+new: <L>3260<pc>68,1<k1>aBisaMvIkz<k2>aBi-saM-vIkz(Ikz)
+;
+old: {@abhi-saṃ-vīkṣ- (ĪKṢ-@}¦) <ab>moy.</ab> voir (avec surprise).
+new: {@abhi-saṃ-vīkṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> voir (avec surprise).
+; -----------------------------------------------
+; Case 052: L=3310, k1=aBisame, #changes=2
+;
+old: <L>3310<pc>69,1<k1>aBisame<k2>aBi-sam-e- (i
+new: <L>3310<pc>69,1<k1>aBisame<k2>aBi-sam-e(i)
+;
+old: {@abhi-sam-e- (I-@}¦) se rassembler; {%°eta-%} assemblé.
+new: {@abhi-sam-e- (I-)@}¦ se rassembler; {%°eta-%} assemblé.
+; -----------------------------------------------
+; Case 053: L=3317, k1=aBisaMprAp, #changes=2
+;
+old: <L>3317<pc>69,1<k1>aBisaMprAp<k2>aBi-saM-prAp- (Ap
+new: <L>3317<pc>69,1<k1>aBisaMprAp<k2>aBi-saM-prAp(Ap)
+;
+old: {@abhi-saṃ-prāp- (ĀP-@}¦) atteindre, obtenir <lbinfo n="3"/>; {%°āpta-%} parvenu.
+new: {@abhi-saṃ-prāp- (ĀP-)@}¦ atteindre, obtenir <lbinfo n="3"/>; {%°āpta-%} parvenu.
+; -----------------------------------------------
+; Case 054: L=3318, k1=aBisaMprekz, #changes=2
+;
+old: <L>3318<pc>69,1<k1>aBisaMprekz<k2>aBi-saM-prekz- (Ikz
+new: <L>3318<pc>69,1<k1>aBisaMprekz<k2>aBi-saM-prekz(Ikz)
+;
+old: {@abhi-saṃ-prekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> percevoir.
+new: {@abhi-saṃ-prekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> percevoir.
+; -----------------------------------------------
+; Case 055: L=3346, k1=aBisyand, #changes=2
+;
+old: <L>3346<pc>69,2<k1>aBisyand<k2>aBi-syand-,
+new: <L>3346<pc>69,2<k1>aBisyand<k2>aBi-syand
+;
+old: {@abhi-SYAND-,@}¦ etc. <ab>v.</ab> {%abhi-ṣyand-.%}
+new: {@abhi-SYAND-@}¦, etc. <ab>v.</ab> {%abhi-ṣyand-.%}
+; -----------------------------------------------
+; Case 056: L=3359, k1=aBI, #changes=2
+;
+old: <L>3359<pc>70,1<k1>aBI<k2>aBI (i<h>1
+new: <L>3359<pc>70,1<k1>aBI<k2>aBI(i)<h>1
+;
+old: {@1 abhī (I-@}¦) s'approcher, se diriger vers, suivre; se joindre, passer
+new: {@1 abhī- (I-)@}¦ s'approcher, se diriger vers, suivre; se joindre, passer
+; -----------------------------------------------
+; Case 057: L=3396, k1=aByatI, #changes=2
+;
+old: <L>3396<pc>70,2<k1>aByatI<k2>aBy-atI- (i
+new: <L>3396<pc>70,2<k1>aByatI<k2>aBy-atI(i)
+;
+old: {@abhy-atī- (I-@}¦) passer (dit du temps), passer <lbinfo n="3"/> au delà de; laisser
+new: {@abhy-atī- (I-)@}¦ passer (dit du temps), passer <lbinfo n="3"/> au delà de; laisser
+; -----------------------------------------------
+; Case 058: L=3407, k1=aByapAn, #changes=2
+;
+old: <L>3407<pc>71,1<k1>aByapAn<k2>aBy-apAn- (an
+new: <L>3407<pc>71,1<k1>aByapAn<k2>aBy-apAn(an)
+;
+old: {@abhy-apān- (AN-@}¦) prendre du souffle.
+new: {@abhy-apān- (AN-)@}¦ prendre du souffle.
+; -----------------------------------------------
+; Case 059: L=3443, k1=aByavekz, #changes=2
+;
+old: <L>3443<pc>71,2<k1>aByavekz<k2>aBy-avekz- (Ikz
+new: <L>3443<pc>71,2<k1>aByavekz<k2>aBy-avekz(Ikz)
+;
+old: {@abhy-avekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> fixer les yeux sur.
+new: {@abhy-avekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> fixer les yeux sur.
+; -----------------------------------------------
+; Case 060: L=3490, k1=aByutTA, #changes=2
+;
+old: <L>3490<pc>72,2<k1>aByutTA<k2>aBy-ut-TA- (sTA
+new: <L>3490<pc>72,2<k1>aByutTA<k2>aBy-ut-TA(sTA)
+;
+old: {@abhy-ut-thā- (STHĀ-@}¦) se lever (not. pour honorer <ab>qq'un</ab>); {%°thita-%}
+new: {@abhy-ut-thā- (STHĀ-)@}¦ se lever (not. pour honorer <ab>qq'un</ab>); {%°thita-%}
+; -----------------------------------------------
+; Case 061: L=3507, k1=aByudDf, #changes=2
+;
+old: <L>3507<pc>72,2<k1>aByudDf<k2>aBy-ud-Df- (hf
+new: <L>3507<pc>72,2<k1>aByudDf<k2>aBy-ud-Df(hf)
+;
+old: {@abhy-ud-dhṛ- (HṚ-@}¦) tirer, puiser; tirer d'embarras, rendre prospère;
+new: {@abhy-ud-dhṛ- (HṚ-)@}¦ tirer, puiser; tirer d'embarras, rendre prospère;
+; -----------------------------------------------
+; Case 062: L=3531, k1=aByupe, #changes=2
+;
+old: <L>3531<pc>73,1<k1>aByupe<k2>aBy-upe- (i
+new: <L>3531<pc>73,1<k1>aByupe<k2>aBy-upe(i)
+;
+old: {@abhy-upe- (I-@}¦) aller à la rencontre de, approcher (une femme, etc.);
+new: {@abhy-upe- (I-)@}¦ aller à la rencontre de, approcher (une femme, etc.);
+; -----------------------------------------------
+; Case 063: L=3532, k1=aByupekz, #changes=2
+;
+old: <L>3532<pc>73,1<k1>aByupekz<k2>aBy-upekz- (Ikz
+new: <L>3532<pc>73,1<k1>aByupekz<k2>aBy-upekz(Ikz)
+;
+old: {@abhy-upekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> permettre; laisser en plan.
+new: {@abhy-upekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> permettre; laisser en plan.
+; -----------------------------------------------
+; Case 064: L=3533, k1=aByupE, #changes=2
+;
+old: <L>3533<pc>73,1<k1>aByupE<k2>aBy-upE- (i
+new: <L>3533<pc>73,1<k1>aByupE<k2>aBy-upE(i)
+;
+old: {@abhy-upai- (I-@}¦) se rendre vers.
+new: {@abhy-upai- (I-)@}¦ se rendre vers.
+; -----------------------------------------------
+; Case 065: L=3539, k1=aBye, #changes=2
+;
+old: <L>3539<pc>73,2<k1>aBye<k2>aBy-e- (i
+new: <L>3539<pc>73,2<k1>aBye<k2>aBy-e(i)
+;
+old: {@abhy-e- (I-@}¦) s'approcher de.
+new: {@abhy-e- (I-)@}¦ s'approcher de.
+; -----------------------------------------------
+; Case 066: L=3947, k1=avacCad, #changes=2
+;
+old: <L>3947<pc>86,1<k1>avacCad<k2>ava-cCad- (Cad
+new: <L>3947<pc>86,1<k1>avacCad<k2>ava-cCad(Cad)
+;
+old: {@ava-cchad- (CHAD-@}¦) <ab>caus.</ab> couvrir, cacher <lbinfo n="4"/>; laisser dans l'obscurité;
+new: {@ava-cchad- (CHAD-)@}¦ <ab>caus.</ab> couvrir, cacher <lbinfo n="4"/>; laisser dans l'obscurité;
+; -----------------------------------------------
+; Case 067: L=3949, k1=avacCand, #changes=2
+;
+old: <L>3949<pc>86,1<k1>avacCand<k2>ava-cCand- (Cand
+new: <L>3949<pc>86,1<k1>avacCand<k2>ava-cCand(Cand)
+;
+old: {@ava-cchand- (CHAND-@}¦) désirer.
+new: {@ava-cchand- (CHAND-)@}¦ désirer.
+; -----------------------------------------------
+; Case 068: L=3950, k1=avacCid, #changes=2
+;
+old: <L>3950<pc>86,1<k1>avacCid<k2>ava-cCid- (Cid
+new: <L>3950<pc>86,1<k1>avacCid<k2>ava-cCid(Cid)
+;
+old: {@ava-cchid- (CHID-@}¦) repousser; {%°cchinna-%} interrompu; limité.
+new: {@ava-cchid- (CHID-)@}¦ repousser; {%°cchinna-%} interrompu; limité.
+; -----------------------------------------------
+; Case 069: L=4155, k1=avazwamB, #changes=2
+;
+old: <L>4155<pc>90,1<k1>avazwamB<k2>ava-zwamB- (stamB
+new: <L>4155<pc>90,1<k1>avazwamB<k2>ava-zwamB(stamB)
+;
+old: {@ava-ṣṭambh- (STAMBH-@}¦) s'appuyer sur; maintenir; saisir, empêcher;
+new: {@ava-ṣṭambh- (STAMBH-)@}¦ s'appuyer sur; maintenir; saisir, empêcher;
+; -----------------------------------------------
+; Case 070: L=4221, k1=avAcCid, #changes=1
+;
+old: <L>4221<pc>91,2<k1>avAcCid<k2>avA-cCid- (Cid-)
+new: <L>4221<pc>91,2<k1>avAcCid<k2>avA-cCid(Cid))
+; -----------------------------------------------
+; Case 071: L=4226, k1=avAp, #changes=1
+;
+old: <L>4226<pc>91,2<k1>avAp<k2>avAp- (Ap-)
+new: <L>4226<pc>91,2<k1>avAp<k2>avAp(Ap)
+; -----------------------------------------------
+; Case 072: L=4283, k1=avita, #changes=2
+;
+old: <L>4283<pc>92,2<k1>avita<k2>avita- (av
+new: <L>4283<pc>92,2<k1>avita<k2>avita(av)
+;
+old: {@avita- (AV-@}¦) <ab>a. v.</ab> protégé; connu (?).
+new: {@avita-@}¦ {@(AV-)@} <ab>a. v.</ab> protégé; connu (?).
+; -----------------------------------------------
+; Case 073: L=4421, k1=ave, #changes=2
+;
+old: <L>4421<pc>95,1<k1>ave<k2>ave- (i
+new: <L>4421<pc>95,1<k1>ave<k2>ave(i)
+;
+old: {@ave- (I-@}¦) considérer; comprendre, savoir (que, <ab>inf.</ab>).
+new: {@ave- (I-)@}¦ considérer; comprendre, savoir (que, <ab>inf.</ab>).
+; -----------------------------------------------
+; Case 074: L=4422, k1=avekz, #changes=2
+;
+old: <L>4422<pc>95,1<k1>avekz<k2>avekz- (Ikz
+new: <L>4422<pc>95,1<k1>avekz<k2>avekz(Ikz)
+;
+old: {@avekṣ- (ĪKṢ-@}¦) <ab>moy.</ab> regarder, observer, remarquer; prendre égard à.
+new: {@avekṣ- (ĪKṢ-)@}¦ <ab>moy.</ab> regarder, observer, remarquer; prendre égard à.
+; -----------------------------------------------
+; Case 075: L=5060, k1=AcCad, #changes=2
+;
+old: <L>5060<pc>111,1<k1>AcCad<k2>A-cCad- (Cad
+new: <L>5060<pc>111,1<k1>AcCad<k2>A-cCad(Cad)
+;
+old: {@ā-cchad- (CHAD-@}¦) <ab>caus.</ab> couvrir, cacher; vêtir, gratifier d'habits;
+new: {@ā-cchad- (CHAD-)@}¦ <ab>caus.</ab> couvrir, cacher; vêtir, gratifier d'habits;
+; -----------------------------------------------
+; Case 076: L=5063, k1=AcCid, #changes=2
+;
+old: <L>5063<pc>111,1<k1>AcCid<k2>A-cCid- (Cid
+new: <L>5063<pc>111,1<k1>AcCid<k2>A-cCid(Cid)
+;
+old: {@ā-cchid- (CHID-@}¦) mettre en pièces, rompre <lbinfo n="3"/>; prendre de; enlever,
+new: {@ā-cchid- (CHID-)@}¦ mettre en pièces, rompre <lbinfo n="3"/>; prendre de; enlever,
+; -----------------------------------------------
+; Case 077: L=5480, k1=Ar, #changes=2
+;
+old: <L>5480<pc>121,1<k1>Ar<k2>A-r
+new: <L>5480<pc>121,1<k1>Ar<k2>A-r(f)
+;
+old: {@ā-r-@}¦ {@(Ṛ-)@} atteindre, obtenir, tomber dans (<ab>fig.</ab>.
+new: {@ā-r- (Ṛ-)@}¦  atteindre, obtenir, tomber dans (<ab>fig.</ab>.
+; -----------------------------------------------
+; Case 078: L=6657, k1=upagra, #changes=2
+;
+old: <L>6657<pc>149,2<k1>upagra<k2>upa-gra
+new: <L>6657<pc>149,2<k1>upagrah<k2>upa-grah
+;
+old: {@upa-GRA-@}¦ s'obscurcir (par une éclipse).
+new: {@upa-GRAH-@}¦ s'obscurcir (par une éclipse).
+; -----------------------------------------------
+; Case 079: L=7016, k1=apusaMpre, #changes=2
+;
+old: <L>7016<pc>156,2<k1>apusaMpre<k2>apu-saM-pre
+new: <L>7016<pc>156,2<k1>upasaMpre<k2>upa-saM-pre
+;
+old: {@apu-saṃ-pre-@}¦ ({@I-@}) s'approcher de.
+new: {@upa-saṃ-pre-@}¦ ({@I-@}) s'approcher de.
+; -----------------------------------------------
+; Case 080: L=12515, k1=nistap, #changes=2
+;
+old: <L>12515<pc>387,1<k1>nistap<k2>nis-tap-,
+new: <L>12515<pc>387,1<k1>nistap<k2>nis-tap
+;
+old: {@nis-TAP-,@}¦ etc. <ab>v.</ab> {%niṣ-ṭap-%} etc.
+new: {@nis-TAP-@}¦, etc. <ab>v.</ab> {%niṣ-ṭap-%} etc.
+; -----------------------------------------------
+; Case 081: L=14568, k1=pratilIh, #changes=2
+;
+old: <L>14568<pc>463,2<k1>pratilIh<k2>prati-lIh
+new: <L>14568<pc>463,2<k1>pratilih<k2>prati-lih
+;
+old: {@prati-LĪH-@}¦ <ab>caus.</ab> faire lécher (2 <ab>acc.</ab>).
+new: {@prati-LIH-@}¦ <ab>caus.</ab> faire lécher (2 <ab>acc.</ab>).
+; -----------------------------------------------
+; Case 082: L=18317, k1=vikfza, #changes=2
+;
+old: <L>18317<pc>646,2<k1>vikfza<k2>vi-kfza
+new: <L>18317<pc>646,2<k1>vikfz<k2>vi-kfz
+;
+old: {@vi-KṚṢA-@}¦ tendre, courber (l'arc); tirer avec soi, traîner; tirer hors
+new: {@vi-KṚṢ-@}¦ tendre, courber (l'arc); tirer avec soi, traîner; tirer hors
+; -----------------------------------------------
+; Case 083: L=18732, k1=viniHsr, #changes=2
+;
+old: <L>18732<pc>661,2<k1>viniHsr<k2>vi-niH-sr
+new: <L>18732<pc>661,2<k1>viniHsf<k2>vi-niH-sf
+;
+old: {@vi-niḥ-SR-@}¦ sortir, provenir de (<ab>abl.</ab>); {%°sṛta-%} sorti, issu de (<ab>abl.</ab>
+new: {@vi-niḥ-SṚ-@}¦ sortir, provenir de (<ab>abl.</ab>); {%°sṛta-%} sorti, issu de (<ab>abl.</ab>
+; -----------------------------------------------
+; Case 084: L=19219, k1=viSran, #changes=2
+;
+old: <L>19219<pc>678,2<k1>viSran<k2>vi-Sran
+new: <L>19219<pc>678,2<k1>viSraR<k2>vi-SraR
+;
+old: {@vi-ŚRAN-@}¦ faire cadeau, donner; {%°śrāṇita-%} donné, présenté.
+new: {@vi-ŚRAṆ-@}¦ faire cadeau, donner; {%°śrāṇita-%} donné, présenté.
+; -----------------------------------------------
+; Case 085: L=19271, k1=vizwu, #changes=1
+;
+old: {@vi-ṣṭu-@}¦ ({@STU-@}) célébrer (par des hymnes, etc.).
+new: {@vi-ṣṭu- (STU-)@}¦ célébrer (par des hymnes, etc.).
+; -----------------------------------------------
+; Case 086: L=19272, k1=vizWA, #changes=1
+;
+old: {@1 vi-ṣṭhā-@}¦ ({@STHĀ-@}) <ab>moy.</ab> se tenir, not. debout, rester au même
+new: {@1 vi-ṣṭhā- (STHĀ-)@}¦<ab>moy.</ab> se tenir, not. debout, rester au même
+; -----------------------------------------------
+; Case 087: L=19735, k1=vyapakfs, #changes=2
+;
+old: <L>19735<pc>702,1<k1>vyapakfs<k2>vy-apa-kfs
+new: <L>19735<pc>702,1<k1>vyapakfz<k2>vy-apa-kfz
+;
+old: {@vy-apa-KṚS-@}¦ entraîner, détourner, séduire <lbinfo n="5"/>; retirer (vêtement),
+new: {@vy-apa-KṚṢ-@}¦ entraîner, détourner, séduire <lbinfo n="5"/>; retirer (vêtement),
+; -----------------------------------------------
+; Case 088: L=22064, k1=samupaDAva, #changes=2
+;
+old: <L>22064<pc>803,1<k1>samupaDAva<k2>sam-upa-DAva
+new: <L>22064<pc>803,1<k1>samupaDAv<k2>sam-upa-DAv
+;
+old: {@sam-upa-DHĀVA-@}¦ 1 courir auprès ou vers (<ab>acc.</ab>).
+new: {@sam-upa-DHĀV-@}¦ 1 courir auprès ou vers (<ab>acc.</ab>).
+; -----------------------------------------------
+; Case 089: L=22116, k1=samupe, #changes=2
+;
+old: <L>22116<pc>804,2<k1>samupe<k2>sam-upe-(i
+new: <L>22116<pc>804,2<k1>samupe<k2>sam-upe-(i)
+;
+old: {@sam-upe-(I-@}¦) se réunir, se rencontrer (en amis ou en ennemis) ; avoir
+new: {@sam-upe- (I-)@}¦ se réunir, se rencontrer (en amis ou en ennemis) ; avoir
+; -----------------------------------------------
+; Case 090: L=22210, k1=saMpracaks, #changes=2
+;
+old: <L>22210<pc>807,1<k1>saMpracaks<k2>saM-pra-caks
+new: <L>22210<pc>807,1<k1>saMpracakz<k2>saM-pra-cakz
+;
+old: {@saṃ-pra-CAKS@}¦ prendre en considération.
+new: {@saṃ-pra-CAKṢ@}¦ prendre en considération.
+; -----------------------------------------------
