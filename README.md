@@ -13,6 +13,7 @@ Development and correction repository for **N. Stchoupak, L. Nitti and L. Renou'
 | Path | Purpose |
 |---|---|
 | `verbs01/` | Verb identification: maps verb entries to MW roots, with Devanāgarī renderings |
+| `prefaces/` | Front-matter OCR (title page + *Avant-propos*) with English + Russian translations — see [Front matter](#front-matter-prefaces) below |
 
 ## Timeline
 
@@ -21,6 +22,7 @@ Development and correction repository for **N. Stchoupak, L. Nitti and L. Renou'
 | 2020 | Repository activity begins (first tracked issues) |
 | 2023–2023 | Ongoing corrections, markup, and comparison work |
 | 2026-05 | Issue taxonomy, citation metadata, documentation |
+| 2026-06 | Front-matter OCR + EN/RU translation of the prefaces (`prefaces/`) |
 
 ## Projects & Milestones
 
@@ -38,15 +40,6 @@ pie showData
   "Structured Data" : 2
   "Major Enhancements" : 1
 ```
-
-**STC** = N. Stchoupak, L. Nitti & L. Renou, *Dictionnaire Sanskrit-Français* (Paris, 1932). Source language of the dictionary's apparatus and front matter is **French**.
-
-## Contents
-
-| Path | What |
-|---|---|
-| `verbs01/` | Verb data |
-| `prefaces/` | Front-matter OCR (title page + *Avant-propos*) with English + Russian translations — see [Front matter](#front-matter-prefaces) below |
 
 ## Front matter (`prefaces/`)
 
