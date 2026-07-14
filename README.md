@@ -1,6 +1,6 @@
 # STC — Stchoupak *Dictionnaire Sanscrit-Français* (1932)
 
-Development and correction repository for **N. Stchoupak, L. Nitti and L. Renou's *Dictionnaire Sanscrit-Français***, a Sanskrit→French dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/stc/stc.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/master/v02/stc/stc.txt) (23,986 entries); this repository holds the development, correction, and enrichment work.
+Development and correction repository for **N. Stchoupak, L. Nitti and L. Renou's *Dictionnaire Sanscrit-Français***, a Sanskrit→French dictionary, part of the [Cologne Digital Sanskrit Lexicon](https://www.sanskrit-lexicon.uni-koeln.de/) (CDSL). The canonical source text lives in [`csl-orig/v02/stc/stc.txt`](https://github.com/sanskrit-lexicon/csl-orig/blob/main/v02/stc/stc.txt) (23,986 entries); this repository holds the development, correction, and enrichment work.
 
 ## Documentation
 
