@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0005.jpg
 source_page: Preface, 1
@@ -16,3 +18,5 @@ Le présent ouvrage doit naturellement l'essentiel de ses matériaux aux deux Di
 ----
 
 (1) Accessoirement, la « Concordance » de Jacob et l'Index des noms propres du MhBh. par Sörensen.
+
+_Dr. Mārcis Gasūns_

@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0005.jpg
 source_page: Preface, 1
@@ -18,3 +20,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 ----
 
 (1) Попутно — « Concordance » Якоба и Указатель собственных имён MhBh. Сёренсена.
+
+_Dr. Mārcis Gasūns_

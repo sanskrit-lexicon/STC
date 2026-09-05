@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0001.jpg
 source_page: Title Page
@@ -24,3 +26,5 @@ ADRIEN MAISONNEUVE
 5, rue de Tournon (VIᵉ)
 —
 1932
+
+_Dr. Mārcis Gasūns_

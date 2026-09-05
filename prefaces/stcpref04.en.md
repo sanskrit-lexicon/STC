@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0008.jpg
 source_page: Preface, 3
@@ -89,3 +91,5 @@ voc. *vocatif* — vocative.
 ----
 
 (1) In a verb, this abbreviation always designates the adjective in *-ta-* (or *-na-*) cited in the enumeration of the forms of that verb.
+
+_Dr. Mārcis Gasūns_

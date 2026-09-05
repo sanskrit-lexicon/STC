@@ -1,6 +1,8 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # Предварительные материалы — полностью (русский)
 
-Per-page files: `stcprefNN.ru.md`. Index: [README.md](README.md).
+Per-page files: `stcprefNN.ru.md`. Index: [README.md](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/README.md).
 
 ## Contents
 
@@ -229,3 +231,5 @@ voc. *vocatif* — вокатив.
 (1) Так, (*açru-*) °*karman-* °*karaṇa-* следует понимать как *açru-karman- açru-karaṇa*; но само собой разумеется, что под *kṛta-* последовательность *kṛtāñjali-* …; °*puṭa-* следует понимать как *kṛtāñjali-* …; *kṛtāñjali-puṭa-*.
 
 (2) Ради экономии места время от времени вписывались даже такие сокращения, как *-tmatā-* (под *ekātman-*): следует, разумеется, восстанавливать *ekātmatā-*.
+
+_Dr. Mārcis Gasūns_

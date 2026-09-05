@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 # STC front matter — OCR + translations
 
 Faithful OCR of the **front matter** (title page and *Avant-propos* / Foreword) of:
@@ -24,23 +26,25 @@ Source scans are the Cologne csldoc preface pages:
 
 | Edition | File |
 |---|---|
-| Français (source) | [stcpref_all.fr.md](stcpref_all.fr.md) |
-| English | [stcpref_all.en.md](stcpref_all.en.md) |
-| Русский | [stcpref_all.ru.md](stcpref_all.ru.md) |
-| Build script | [build_combined.py](build_combined.py) |
+| Français (source) | [stcpref_all.fr.md](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref_all.fr.md) |
+| English | [stcpref_all.en.md](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref_all.en.md) |
+| Русский | [stcpref_all.ru.md](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref_all.ru.md) |
+| Build script | [build_combined.py](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/build_combined.py) |
 
 ## Contents
 
 | NN | Section | Vol. | Source (FR) | English | Russian | Scan |
 |---|---|---|---|---|---|---|
-| 01 | Title Page | 1 | [fr](stcpref01.md) | [en](stcpref01.en.md) | [ru](stcpref01.ru.md) | [stchou-vor0001.jpg](scans/stchou-vor0001.jpg) |
-| 02 | Avant-propos, 1 | 1 | [fr](stcpref02.md) | [en](stcpref02.en.md) | [ru](stcpref02.ru.md) | [stchou-vor0005.jpg](scans/stchou-vor0005.jpg) |
-| 03 | Avant-propos, 2 (p. II) | 1 | [fr](stcpref03.md) | [en](stcpref03.en.md) | [ru](stcpref03.ru.md) | [stchou-vor0007.jpg](scans/stchou-vor0007.jpg) |
-| 04 | Avant-propos, 3 — abbreviations (p. III) | 1 | [fr](stcpref04.md) | [en](stcpref04.en.md) | [ru](stcpref04.ru.md) | [stchou-vor0008.jpg](scans/stchou-vor0008.jpg) |
-| 05 | Avant-propos, 4 (p. IV) | 1 | [fr](stcpref05.md) | [en](stcpref05.en.md) | [ru](stcpref05.ru.md) | [stchou-vor0009.jpg](scans/stchou-vor0009.jpg) |
+| 01 | Title Page | 1 | [fr](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref01.md) | [en](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref01.en.md) | [ru](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref01.ru.md) | [stchou-vor0001.jpg](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/scans/stchou-vor0001.jpg) |
+| 02 | Avant-propos, 1 | 1 | [fr](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref02.md) | [en](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref02.en.md) | [ru](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref02.ru.md) | [stchou-vor0005.jpg](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/scans/stchou-vor0005.jpg) |
+| 03 | Avant-propos, 2 (p. II) | 1 | [fr](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref03.md) | [en](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref03.en.md) | [ru](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref03.ru.md) | [stchou-vor0007.jpg](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/scans/stchou-vor0007.jpg) |
+| 04 | Avant-propos, 3 — abbreviations (p. III) | 1 | [fr](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref04.md) | [en](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref04.en.md) | [ru](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref04.ru.md) | [stchou-vor0008.jpg](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/scans/stchou-vor0008.jpg) |
+| 05 | Avant-propos, 4 (p. IV) | 1 | [fr](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref05.md) | [en](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref05.en.md) | [ru](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/stcpref05.ru.md) | [stchou-vor0009.jpg](https://github.com/sanskrit-lexicon/STC/blob/main/prefaces/scans/stchou-vor0009.jpg) |
 
 ## Notes
 
 - The *Avant-propos* is unsigned and undated; it closes with thanks to the Académie des Inscriptions et Belles-Lettres and to M. A. Foucher, and homage to the late É. Senart, but carries no byline or place/date.
 - Page 04 is a two-column list of the French grammatical abbreviations used throughout the dictionary; the keys are kept verbatim and the expansions translated.
 - Footnotes are reproduced per page below a horizontal rule.
+
+_Dr. Mārcis Gasūns_

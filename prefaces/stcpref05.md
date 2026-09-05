@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0009.jpg
 source_page: Preface, 4
@@ -46,3 +48,5 @@ On ne saurait terminer cette œuvre sans en reporter tacitement l'hommage à la 
 (1) Ainsi (*açru-*) °*karman-* °*karaṇa-* est à entendre *açru-karman- açru-karaṇa* ; mais il va de soi que, sous *kṛta-*, la séquence *kṛtāñjali-* … ; °*puṭa-* est à entendre *kṛtāñjali-* … ; *kṛtāñjali-puṭa-*.
 
 (2) Pour gagner de la place, on a même inscrit de temps en temps des abréviations telles que *-tmatā-* (sous *ekātman-*) : il faut évidemment restituer *ekātmatā-*.
+
+_Dr. Mārcis Gasūns_

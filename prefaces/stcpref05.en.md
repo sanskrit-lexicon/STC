@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0009.jpg
 source_page: Preface, 4
@@ -48,3 +50,5 @@ This work could not be brought to a close without tacitly rendering homage to th
 (1) Thus (*açru-*) °*karman-* °*karaṇa-* is to be understood as *açru-karman- açru-karaṇa*; but it goes without saying that, under *kṛta-*, the sequence *kṛtāñjali-* …; °*puṭa-* is to be understood as *kṛtāñjali-* …; *kṛtāñjali-puṭa-*.
 
 (2) To save space, abbreviations such as *-tmatā-* (under *ekātman-*) have even been written from time to time: one must of course restore *ekātmatā-*.
+
+_Dr. Mārcis Gasūns_

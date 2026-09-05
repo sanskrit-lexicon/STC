@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0008.jpg
 source_page: Preface, 3
@@ -87,3 +89,5 @@ voc. vocatif.
 ----
 
 (1) Dans un verbe, cette abréviation désigne toujours l'adjectif en *-ta-* (ou *-na-*) cité dans l'énumération des formes de ce verbe.
+
+_Dr. Mārcis Gasūns_

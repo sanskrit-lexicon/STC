@@ -1,3 +1,5 @@
+_Created: 13-06-2026 · Last updated: 05-09-2026_
+
 # Changelog
 
 All notable changes to STC are documented here.
@@ -14,3 +16,5 @@ ready for a dated entry.
 
 ### Recent Git History
 - 2026-05-16 docs(cff): enrich with publication-year + author from inventory (1932, Stchoupak)
+
+_Dr. Mārcis Gasūns_

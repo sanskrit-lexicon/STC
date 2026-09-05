@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0009.jpg
 source_page: Preface, 4
@@ -48,3 +50,5 @@ source_url: https://sanskrit-lexicon.uni-koeln.de/scans/csldev/csldoc/build/dict
 (1) Так, (*açru-*) °*karman-* °*karaṇa-* следует понимать как *açru-karman- açru-karaṇa*; но само собой разумеется, что под *kṛta-* последовательность *kṛtāñjali-* …; °*puṭa-* следует понимать как *kṛtāñjali-* …; *kṛtāñjali-puṭa-*.
 
 (2) Ради экономии места время от времени вписывались даже такие сокращения, как *-tmatā-* (под *ekātman-*): следует, разумеется, восстанавливать *ekātmatā-*.
+
+_Dr. Mārcis Gasūns_

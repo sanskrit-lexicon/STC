@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0005.jpg
 source_page: Preface, 1
@@ -18,3 +20,5 @@ Given that this Dictionary is of a strictly elementary character, and given on t
 ----
 
 (1) Incidentally, the « Concordance » of Jacob and the Index of proper names of the MhBh. by Sörensen.
+
+_Dr. Mārcis Gasūns_

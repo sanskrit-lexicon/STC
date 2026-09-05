@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0007.jpg
 source_page: Preface, 2
@@ -42,3 +44,5 @@ Au reste on a cherché à rendre service aux débutants en multipliant les renvo
 (1) D'abord les temps de la conjugaison proprement dite (présent, parfait, aoriste, futur) ; la conjugaison dérivée (passif, causatif, désidératif, intensif) ; la conjugaison nominale (adjectif en *-ta-*, infinitif, absolutif). On s'est fondé ici sur l'excellent répertoire des *Roots* de Whitney. — Pour les verbes à préverbes, chercher ces temps sous le verbe simple.
 
 (2) Le féminin (des adjectifs) est indiqué dans tous les cas difficiles, en particulier le féminin en *-ī-* pour les thèmes en *-a-*.
+
+_Dr. Mārcis Gasūns_

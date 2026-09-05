@@ -1,3 +1,5 @@
+_Created: 22-06-2026 · Last updated: 05-09-2026_
+
 ---
 source_scan: stchou-vor0007.jpg
 source_page: Preface, 2
@@ -44,3 +46,5 @@ For the rest we have sought to be of service to beginners by multiplying cross-r
 (1) First the tenses of conjugation proper (present, perfect, aorist, future); the derived conjugation (passive, causative, desiderative, intensive); the nominal conjugation (adjective in *-ta-*, infinitive, absolutive). We have relied here on the excellent repertory of the *Roots* of Whitney. — For verbs with preverbs, look for these tenses under the simple verb.
 
 (2) The feminine (of adjectives) is indicated in all difficult cases, in particular the feminine in *-ī-* for themes in *-a-*.
+
+_Dr. Mārcis Gasūns_
